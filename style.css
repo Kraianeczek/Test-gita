@@ -1,0 +1,23 @@
+
+body {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.container h1 {
+    font-size: 48px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.container p {
+    font-size: 20px;
+}
